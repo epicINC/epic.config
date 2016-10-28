@@ -1,0 +1,15 @@
+{
+  "name": "epic.config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "*",
+    "epic.util": "*"
+  }
+}
